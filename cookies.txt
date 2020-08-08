@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.6r-diamond.com	TRUE	/	FALSE	1999999999	frontend_lang	en_US
+www.6r-diamond.com	TRUE	/	FALSE	1999999999	visitor_uuid	f0d3f40acab240fc9ac71194861061c7
+www.6r-diamond.com	TRUE	/	FALSE	1999999999	session_id	1d3e266472ba4fabc7e9bacde93585d3c0dc9a75
+
